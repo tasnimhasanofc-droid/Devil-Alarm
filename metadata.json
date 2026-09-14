@@ -1,0 +1,7 @@
+{
+  "name": "WakeGuard",
+  "description": "Premium modern Android alarm and digital-wellbeing app featuring multi-step math and camera smile wake verification, and Save me for dopamine focus protection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
